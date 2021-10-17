@@ -1,0 +1,89 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+
+}
+
+ .btn1{
+     margin-left: 200px;
+     margin-top: 100px;
+     padding: 15px;
+     border-top-left-radius: 10px 10px;
+     border-top-right-radius: 10px 10px;
+     padding: 15px 45px;
+     background-color: rgb(36, 208, 214);
+     text-transform: uppercase;
+     cursor: pointer;
+     
+     }
+ .btn2{
+     margin-left: 18px;
+     margin-top: 100px;
+     padding: 15px;
+     border-top-left-radius: 10px 10px;
+     border-top-right-radius: 10px 10px;
+     padding: 15px 45px;
+     background-color: rgba(129, 116, 116, 0.287);
+     text-transform: uppercase;
+     cursor: pointer;
+ }
+ .btn3{
+    margin-left: 19px;
+    margin-top: 100px;
+    padding: 15px;
+    border-top-left-radius: 10px 10px;
+     border-top-right-radius: 10px 10px;
+     padding: 15px 45px;
+     background-color: rgba(129, 116, 116, 0.287);
+     text-transform: uppercase;
+     cursor: pointer;
+}
+.btn4{
+    margin-left: 18px;
+    margin-top: 100px;
+    padding: 15px;
+    border-top-left-radius: 10px 10px;
+     border-top-right-radius: 10px 10px;
+     padding: 15px 45px;
+     background-color: rgba(129, 116, 116, 0.287);
+     text-transform: uppercase;
+     cursor: pointer;
+
+     
+}
+
+
+ .container{
+    width: 700px;
+    height: 300px;
+   /* margin: 200px 100px; */
+    margin-left: 200px;
+    background-color: transparent;
+    border-top: 2px solid rgb(36, 208, 214);
+    border-right:1px solid gray ;
+    border-bottom: 1px solid gray;
+    border-left: 1px solid gray;
+    
+}
+
+.container img{
+    float: left;
+    margin-top: 20px;
+}
+
+.heading{
+    margin-top: 50px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.pra{
+       margin-top: 5px;
+    letter-spacing: 1px;
+}
+
+
+
+
